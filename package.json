@@ -1,0 +1,22 @@
+{
+  "name": "background-cycle",
+  "version": "1.0.0",
+  "description": "Cycle through background images onpage reload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybot1711/background-image-cycle.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jahil Khalfe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybot1711/background-image-cycle/issues"
+  },
+  "homepage": "https://github.com/cybot1711/background-image-cycle#readme"
+}
